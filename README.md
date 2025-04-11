@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @disha-bidikar
 - 👀 I’m interested in web development and cyber security
-- 🌱 I’m currently learning c/c++ programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DSA in c/c++ 
 - 📫 How to reach me dishabidikar125@gmail.com
 
 
